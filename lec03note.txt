@@ -1,0 +1,45 @@
+Arrays
+	* sevral value store in same mammory
+SYN ----> typename arrayname[numberElement(must be int or literal)]
+--we can declare global array 
+-array size --> the number of element * size of data type 
+sizeof ()
+	*The sizeof operator is a unary compile-time operator used to determine the size of variables, data types, and constants in bytes at compile time. It can also determine the size of classes, structures, and unions
+
+
+-array start at zero 
+
+String
+ * sequence of charecter stored consecutively in memory 
+  -StrLen()
+  - strcpy()
+  - strcat()
+  - strcat()
+  -strcmp()
+(cstring and srting ) two header file for class string 
+
+pointers
+  * WE USE THE ADDRESS (&) OPRATOR TO GET THE ADDRESS WHERE THE VALUE 
+OF THE VARALBLE IS STORED
+Pointers are variables that hold addresses of other variables. Not only can a pointer store the address of a single variable, it can also store the address of cells of an array
+
+
+
+double pointer ** example Array of Array 
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
